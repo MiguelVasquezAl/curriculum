@@ -1,0 +1,50 @@
+header {
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 4rem;
+}
+h1 {
+  font-size: 20px;
+  color: rgb(40, 148, 148);
+  background-color: rgb(182, 178, 178);
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  width: 100%;
+  text-align: center;
+}
+h2 {
+  font-size: 16px;
+  color: rgb(40, 148, 148);
+  background-color: rgb(182, 178, 178);
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+}
+ul li {
+  text-decoration: none;
+}
+footer {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  background-color: #005677;
+  color: white;
+  align-items: center;
+  gap: 20px;
+  height: 30px;
+  position: absolute;
+  bottom: 0;
+  border: 1px solid black;
+  width: 100%;
+}
+.imgfooter {
+  width: 20px;
+  height: 20px;
+}
+li {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
