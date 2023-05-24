@@ -1,3 +1,6 @@
+* {
+  background-color: rgb(236, 234, 234);
+}
 header {
   height: 250px;
   display: flex;
@@ -22,9 +25,7 @@ h2 {
   padding-top: 0.3rem;
   padding-bottom: 0.3rem;
 }
-ul li {
-  text-decoration: none;
-}
+
 footer {
   height: 100px;
   display: flex;
@@ -47,4 +48,15 @@ li {
   display: flex;
   align-items: center;
   gap: 5px;
+}
+.negritacursiva {
+  font-weight: bold;
+  font-style: italic;
+}
+.datopersonal {
+  display: flex;
+  align-items: center;
+}
+div {
+  height: 25px;
 }
