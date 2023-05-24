@@ -1,2 +1,2 @@
 # curriculum
-CV
+[CV](https://miguelvasquezal.github.io/curriculum.io/)
